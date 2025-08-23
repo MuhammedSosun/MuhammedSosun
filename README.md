@@ -13,11 +13,11 @@
 <img src="https://github.com/MuhammedSosun/MuhammedSosun/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate back-end developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Java,Spring-Boot,MicroService-Architecture**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Java,Spring-Boot**
 
 - 📫 How to reach me **muhammedsosun06@gmail.com**
 
