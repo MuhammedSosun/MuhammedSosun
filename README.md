@@ -1,7 +1,7 @@
 <img src="https://cdn.prod.website-files.com/5f2b1efb0f881760ffdc5c96/63c12849a1c7e9df64c819fc_programming-languages-shutterstock-1680857539.webp" 
      alt="MasterHead" 
-     width="1000" 
-     height="400" 
+     width="1100" 
+     height="300" 
      style="object-fit: cover;"/>
 
 <h1 align="center">Hi 👋, I'm Muhammed Sosun</h1>
