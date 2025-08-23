@@ -50,7 +50,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
+  <summary><h2>📸</h2></summary>
 
 
 <picture>
