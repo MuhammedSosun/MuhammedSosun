@@ -3,25 +3,24 @@
      width="1100" 
      height="300" 
      style="object-fit: cover;"/>
+![](https://komarev.com/ghpvc/?username=MuhammedSosun&color=blue)
+<div align="center">
+ <a href="https://github.com/MuhammedSosun">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Muhammed+Sosun+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Muhammed Sosun</h1>
-<h3 align="center">Computer Engineer | Backend Developer | Java Enthusiast</h3>
+<img src="https://github.com/MuhammedSosun/MuhammedSosun/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedsosun&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedsosun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedsosun" alt="muhammedsosun" /></a> </p>
+<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Java,Spring-Boot**
+- 🔭 I’m currently working on **Java,Spring-Boot,MicroService-Architecture**
 
-- 🌱 I’m currently learning **Spring-Boot,NoSQL,Java,Microservice-Architecture**
-
-- 💬 Ask me about **Spring-Boot,NoSQL,Java,Microservice-Architecture**
+- 💬 Ask me about **Blockchain**
 
 - 📫 How to reach me **muhammedsosun06@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,17 +29,99 @@
 <a href="https://medium.com/@muhammedsosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammedsosun" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedsosun&show_icons=true&locale=en&layout=compact" alt="muhammedsosun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedsosun&show_icons=true&locale=en" alt="muhammedsosun" /></p>
+<!--
+<details>
+  <summary>:zap: GitHub Stats</summary> 
+-->
+# 💻 Languages and Tools:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsosun&" alt="muhammedsosun" /></p>
+  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
+
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+# Github Stats
+
+ <br />
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/MuhammedSosun/MuhammedSosun/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedSosun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="MuhammedSosun" />
+    <img heigth="160" width="182" src="https://github.com/MuhammedSosun/MuhammedSosun/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+
+  
+<br />
+
+
+ 
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/MuhammedSosun/MuhammedSosun/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedSosun&theme=material-palenight&hide_border=false" alt="MuhammedSosun" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/MuhammedSosun/MuhammedSosun/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+ 
+
+ 
+ <br />
+ 
+  
+  
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/MuhammedSosun/MuhammedSosun/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSosun&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MuhammedSosun" />
+    <img heigth="160" width="182" src="https://github.com/MuhammedSosun/MuhammedSosun/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+  </a>
+</p>
+ 
+  
+  
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSosun&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/MuhammedSosun/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=MuhammedSosun&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
+
+
+<!--
+</details>
+-->
+
+<!--
+<details>
+   <summary>:zap: Languages and Tools</summary>
+ -->
