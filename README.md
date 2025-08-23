@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebflow.riders.ai%2Fen-blog%2Fmost-used-programming-languages-in-the-world&psig=AOvVaw1gJwvpL4rHRfOcdXsrKF_Z&ust=1756034389252000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCqn43ooI8DFQAAAAAdAAAAABAE)
+[![MasterHead](https://cdn.prod.website-files.com/5f2b1efb0f881760ffdc5c96/63c12849a1c7e9df64c819fc_programming-languages-shutterstock-1680857539.webp)
 <h1 align="center">Hi 👋, I'm Muhammed Sosun</h1>
 <h3 align="center">Computer Engineer | Backend Developer | Java Enthusiast</h3>
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammed-sosun-5b0858299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-sosun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammed-sosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-sosun" height="30" width="40" /></a>
 <a href="https://instagram.com/sosunmuhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sosunmuhammed" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammedsosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammedsosun" height="30" width="40" /></a>
 </p>
