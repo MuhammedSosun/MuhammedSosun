@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **Java,Spring-Boot**
 
-- 🌱 I’m currently learning **Spring-Boot,NoSQL,Java**
+- 🌱 I’m currently learning **Spring-Boot,NoSQL,Java,Microservice-Architecture**
 
-- 💬 Ask me about **Java,Spring-Boot**
+- 💬 Ask me about **Spring-Boot,NoSQL,Java,Microservice-Architecture**
 
 - 📫 How to reach me **muhammedsosun06@gmail.com**
 
