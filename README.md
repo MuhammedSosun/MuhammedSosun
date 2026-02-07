@@ -17,8 +17,6 @@
 
 - 🔭 I’m currently working on **Java, Spring-Boot, JavaScript, React, MicroService-Architecture**
 
-- 💬 Ask me about **Java,Spring-Boot**
-
 - 📫 How to reach me **muhammedsosun06@gmail.com**
 
 
