@@ -66,19 +66,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Left.png" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSosun&theme=material-palenight&hide_border=false" />
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Right.png" height="160" />
+  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Left.png" height="150" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSosun&show_icons=true&theme=material-palenight&count_private=true" align="center" />
+  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Right.png" height="150" align="center" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Left.png" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedSosun&theme=material-palenight" width="55%" />
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Right.png" height="160" />
+  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Left.png" height="150" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedSosun&theme=material-palenight" align="center" />
+  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Right.png" height="150" align="center" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Bottom%20Left.png" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSosun&theme=material-palenight&layout=compact" />
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Bottom%20Right.png" height="160" />
+  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Bottom%20Left.png" height="150" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSosun&theme=material-palenight&layout=compact" align="center" />
+  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Bottom%20Right.png" height="150" align="center" />
 </p>
