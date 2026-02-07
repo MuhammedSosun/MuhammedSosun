@@ -65,20 +65,26 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Left.png" height="150" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSosun&show_icons=true&theme=material-palenight&count_private=true" align="center" />
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Right.png" height="150" align="center" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="center"><img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Left.png" height="150" /></td>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhammedSosun&show_icons=true&theme=material-palenight&count_private=true" /></td>
+    <td valign="center"><img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Right.png" height="150" /></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Left.png" height="150" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedSosun&theme=material-palenight" align="center" />
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Right.png" height="150" align="center" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="center"><img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Left.png" height="150" /></td>
+    <td valign="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedSosun&theme=material-palenight" /></td>
+    <td valign="center"><img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Right.png" height="150" /></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Bottom%20Left.png" height="150" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSosun&theme=material-palenight&layout=compact" align="center" />
-  <img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Bottom%20Right.png" height="150" align="center" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="center"><img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Bottom%20Left.png" height="150" /></td>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSosun&theme=material-palenight&layout=compact" /></td>
+    <td valign="center"><img src="https://raw.githubusercontent.com/MuhammedSosun/MuhammedSosun/main/img/Bird%20Wing%20Bottom%20Right.png" height="150" /></td>
+  </tr>
+</table>
